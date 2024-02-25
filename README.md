@@ -44,6 +44,6 @@ _______
 
 Link do curso: <https://www.udemy.com/course/engenheiro-de-dados/>
 
-Luan Marcos Medeiros --- [Linkedin](www.linkedin.com/in/luan-medeiros/) --- lmm_santos2016@outlook.com
+Luan Marcos Medeiros --- [Linkedin](https://www.linkedin.com/in/luan-medeiros/) --- lmm_santos2016@outlook.com
 
 
